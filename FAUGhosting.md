@@ -1,9 +1,10 @@
-
 # How to run a Finland Azure User Group event?
 So you want to host a Finland Azure User Group meetup, but have no idea how to do it? Great news! You are in the right place. Use this guide to plan for your meetup. This guide is meant for newcomer organizers who have no previous meetup hosting experience. Pull requests and comments are very much welcome!
 
 ## Code of Conduct
-Finland Azure User Group events are built by the community, for the community. This means that everyone is encouraged to attend, speak at and host FAUG events in an equal mannaer. As an organizer or host of a Finland Azure Group event, you are responsible for understanding and ultimately enforcing the code of conduct:
+Finland Azure User Group events are built by the community, for the community. This means that everyone is encouraged to attend, speak at and host FAUG events in an equal mannaer. As an organizer or host of a Finland Azure Group event, you are responsible for understanding, sharing and ultimately enforcing the code of conduct:
+
+>We seek to provide a respectful, friendly, professional experience for everyone, regardless of gender, sexual orientation, physical appearance, disability, age, race or religion. We do not tolerate any behavior that is harassing or degrading to any individual, in any form. Individuals are responsible for knowing and abiding by these standards. We encourage everyone to assist in creating a welcoming and safe environment. Please report any concerns, suspicious or disruptive activity or behavior directly to any of the organizers.
 
 
 ## Agenda
