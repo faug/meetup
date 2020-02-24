@@ -35,7 +35,7 @@ Use this agenda as a baseline to get started with your event. Feel free to add o
 * Size: should comfortably seat upwards from 20 people. Typically this is an internal cafeteria / lounge room or an auditorium.
 * Location: central, reachable by public transport
 * Overflow capacity is a plus
-* A suitable venue does not have distractions (random people moving in and out) or does not distract others. This is relevant when a veneu is in a coworking space or shared office)
+* A suitable venue does not have distractions (random people moving in and out) or does not distract others. This is relevant when a venue is in a coworking space or shared office)
 
 ### What to find out about a possible venue?
 * Are there any special arrival instructions? 
@@ -66,10 +66,10 @@ Soft drinks and beer is always appreciated by the attendees. For marketing purpo
 How much does it cost to host a meetup? The cost depends on many variables, such as:
 * Venue
   * Usually no, but in some shared office buildings there is an extra costs associated with using an auditorium or other shared rooms.
-  * Usually the rental cost is betwe 200€-500€ per evening
+  * Usually the rental cost is between 200€-500€ per evening
 * Catering
   * Food and beverages are the main cost component.
-  * You should expect to reserve 1 pizza per 4 attendees, meaning your food costs should stay under 200 € if you keep the pizzas to  Kotipizza-class and go too fancy.
+  * You should expect to reserve 1 pizza per 4 attendees, meaning your food costs should stay under 200 € if you keep the pizzas to  Kotipizza-class and don't go too fancy.
 * Extras
   * travel expenses for speakers?
   * video recording / live stream?
