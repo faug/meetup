@@ -59,7 +59,7 @@ Keep in mind that as the volume of food you will order is quite high, you should
 
 Soft drinks and beer is always appreciated by the attendees. For marketing purposes, serving drinks with the branding of the event host company might be a good idea.
 
-	Note that some venues do not allow outside catering to be organized. This means that you must use the venue's only catering provider (Fazer, ISS or similar). Ask from your marketing or HR department, or anyone who has organized events before!
+>Note that some venues do not allow outside catering to be organized. This means that you must use the venue's only catering provider (Fazer, ISS or similar). Ask from your marketing or HR department, or anyone who has organized events before!
 
 ## Budgeting
 How much does it cost to host a meetup? The cost depends on many variables, such as:
@@ -80,7 +80,7 @@ Who to approach, what is practical and what is hard?
 
 # Task list
 ## Before the event - getting the word out
-	Meetup.com: as soon as you have decided the date and the venue, reach out to the FAUG crew and we will help publish to FAUG meetup.com and promote you as a co-organizer of the event
+>Meetup.com: as soon as you have decided the date and the venue, reach out to the FAUG crew and we will help publish to FAUG meetup.com and promote you as a co-organizer of the event
 * Your company newsletter / blogpost / website - involve your marketing team
 * Internal communications - now's a great chance to invite your colleagues who wouldn't normally have time to join!
 * Reach out to other user groups in the area
